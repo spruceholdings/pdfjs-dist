@@ -1,5 +1,5 @@
 {
-  "name": "pdfjs-dist",
+  "name": "@spruce/pdfjs-dist",
   "version": "2.2.171",
   "main": "build/pdf.js",
   "description": "Generic build of Mozilla's PDF.js library.",
